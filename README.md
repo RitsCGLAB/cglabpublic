@@ -1,1 +1,2 @@
-# cglabpublic
+# cglabpublic 
+研究室公開用のホームページ作成ディレクトリです.
